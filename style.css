@@ -78,7 +78,7 @@ body {
 
 span {
     position: relative;
-    display: inline-block;
+    display: inline-flex;
     width: 120px;
     height: 45px;
 }
